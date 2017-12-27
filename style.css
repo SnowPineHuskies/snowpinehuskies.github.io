@@ -1,0 +1,54 @@
+@charset "UTF-8";
+/* CSS Document */
+
+body {
+	background-image: url(home/background.jpg);
+	background-repeat: repeat;
+}
+		.center {
+	margin-right: auto;
+	margin-left: auto;
+}
+.footer {
+	text-align: center;
+	color: #FFFFFF;
+	margin-top: 5px;
+	margin-bottom: 5px;
+	padding-top: 0px;
+	padding-bottom: 0px;
+}
+	.main {
+	padding-left: 15px;
+	padding-right: 12px;
+}
+		.sidebar {
+	padding-left: 25px;
+	padding-right: 25px;
+}
+h1 {
+	color: #800002;
+	margin-top: 12px;
+}
+body,td,th {
+	font-family: "Myriad Pro", Helvetica, Arial, sans-serif;
+	font-size: 12pt;
+}
+	h3 {
+	margin-top: 12px;
+	padding-top: 0px;
+	}
+	.menu img{
+	border-width: 0px;
+	text-align: center;
+	display: block;
+	}
+.divider {
+	border-bottom: 1px dashed #5F5F5F;
+}
+.parent {
+	margin-bottom: 0px;
+}
+	/*object {
+		font-family: "Myriad Pro", Helvetica, Arial, sans-serif;
+	font-size: 14pt;
+	}*/
